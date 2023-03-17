@@ -12,14 +12,14 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Ananke"
+    title = "SE LAB"
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
-  [languages.fr]
-    title = "Ananke Fr"
+  [languages.jp]
+    title = "Ananke jp"
     weight = 2
-    contentDir = "content/fr"
+    contentDir = "content/jp"
 
 [sitemap]
   changefreq = "monthly"
@@ -29,7 +29,7 @@ enableRobotsTXT = true
 [params]
   text_color = ""
   author = ""
-  favicon = ""
+  favicon = "/images/seLab.png"
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
@@ -38,4 +38,8 @@ enableRobotsTXT = true
 
 [[params.ananke_socials]]
 name = "twitter"
-url = "https://twitter.com/GoHugoIO"
+url = "https://twitter.com/selabnaist?s=20&t=qjNx9y3W6wtDy4osevJ8CQ"
+[[params.ananke_socials]]
+name = "facebook"
+url = "https://www.facebook.com/selabnaist/"
+
