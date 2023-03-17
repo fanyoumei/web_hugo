@@ -1,6 +1,6 @@
 ---
 title: "ACCESS"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
+description: "Address & Campus map"
 featured_image: '/images/naist.jpeg'
 menu:
   main:
