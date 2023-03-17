@@ -6,6 +6,12 @@ menu:
   main:
     weight: 1
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+〒 630 – 0192 奈良県生駒市高山町 8916-5 情報科学領域棟B棟 3F ソフトウェア工学研究室
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+〒630-0192
+8916-5 Takayamacho, Ikoma, Nara
+Information Science B building, 3rd floor
+Software Engineering Laboratory
+
+**Tel** ：0743-72-5318 (ext: 5312)   
+**Fax** ：0743-72-5319

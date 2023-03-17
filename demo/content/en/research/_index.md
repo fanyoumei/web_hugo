@@ -1,10 +1,7 @@
 ---
-title: "NEWS"
+title: "RESEARCH"
 description: "Here, you'll find everything related to our ongoing projects, discoveries, and collaborations with other leading institutions around the world. Stay tuned for regular updates on our work."
 featured_image: '/images/bkg.jpg'
-menu:
-  main:
-    weight: 1
 ---
 <!-- {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
